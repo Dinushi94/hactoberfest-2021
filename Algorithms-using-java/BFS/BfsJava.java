@@ -64,4 +64,7 @@ public class BfsJava {
         bfsImp.BFS(0);
     }
 }
-
+int number = 11;
+if (number > 10) {
+    System.out.println("The number was greater than 10");
+}
